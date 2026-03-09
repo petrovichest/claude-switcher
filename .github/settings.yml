@@ -1,0 +1,10 @@
+repository:
+  topics:
+    - claude
+    - claude-code
+    - claude-switcher
+    - desktop-app
+    - tauri
+    - react
+    - typescript
+    - rust
